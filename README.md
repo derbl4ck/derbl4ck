@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm **Lukas**, a Software Engineer and Cloud Architect based in Germany.  
-I love **(re)building enterprise-scale architectures** and exploring how **data and AI** can reshape the way businesses operate. This is my private account, where I share ideas, experiments, and projects that inspire me.
+I'm **Lukas**, a enterprise technologist and trusted advisor with a strong focus on cloud, data, and AI platforms. I design and drive scalable solutions that translate complex technology into measurable business value, enabling organizations to modernize, govern, and innovate with confidence. Passionate about responsible AI, platform thinking, and collaborative leadership in complex enterprise environments. This is my private account, where I share ideas, experiments, and projects that inspire me.
 
 ### 🔭 I’m currently working on
 - **Tutrix**
